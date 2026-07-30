@@ -6,10 +6,11 @@ A single-page, dependency-free photography portfolio built with vanilla HTML, CS
 
 ---
 
-##Preview
+## Preview
 
-<img src="https://github.com/user-attachments/assets/c98d2afe-7774-402f-a3d3-0ebb7f5635bf" width="420"/><img src="https://github.com/user-attachments/assets/f9edfa51-7993-4779-9738-46fa69d31ca3" width="420"/>
-<img src="https://github.com/user-attachments/assets/5d7a9741-10a8-46b0-a2be-b6384324de36" width="420"/><img src="https://github.com/user-attachments/assets/c37d9bee-171d-43c2-ac36-00ef2a3b8fe7" width="420"/>
+<img src="https://github.com/user-attachments/assets/c98d2afe-7774-402f-a3d3-0ebb7f5635bf" width="420"/> <img src="https://github.com/user-attachments/assets/f9edfa51-7993-4779-9738-46fa69d31ca3" width="420"/>
+
+<img src="https://github.com/user-attachments/assets/5d7a9741-10a8-46b0-a2be-b6384324de36" width="420"/> <img src="https://github.com/user-attachments/assets/c37d9bee-171d-43c2-ac36-00ef2a3b8fe7" width="420"/>
 
 ---
 
