@@ -6,21 +6,11 @@ A single-page, dependency-free photography portfolio built with vanilla HTML, CS
 
 ---
 
-## Preview
-
-| Home | Gallery |
-|---|---|
-| ![Home preview](<img width="1892" height="910" alt="image" src="https://github.com/user-attachments/assets/c98d2afe-7774-402f-a3d3-0ebb7f5635bf" />
- | ![Gallery preview](<img width="1867" height="896" alt="image" src="https://github.com/user-attachments/assets/f9edfa51-7993-4779-9738-46fa69d31ca3" />
-) |
-
-| About | Contact |
-|---|---|
-| ![About preview](<img width="1880" height="902" alt="image" src="https://github.com/user-attachments/assets/5d7a9741-10a8-46b0-a2be-b6384324de36" />
-) | ![Contact preview](<img width="1817" height="882" alt="image" src="https://github.com/user-attachments/assets/c37d9bee-171d-43c2-ac36-00ef2a3b8fe7" />
-) |
-
-> Screenshots not showing? Add your own images to `docs/screenshots/` using the filenames above (see [Adding Screenshots](#adding-screenshots)).
+Preview
+Home	Gallery
+<img src="https://github.com/user-attachments/assets/c98d2afe-7774-402f-a3d3-0ebb7f5635bf" width="420"/>	<img src="https://github.com/user-attachments/assets/f9edfa51-7993-4779-9738-46fa69d31ca3" width="420"/>
+About	Contact
+<img src="https://github.com/user-attachments/assets/5d7a9741-10a8-46b0-a2be-b6384324de36" width="420"/>	<img src="https://github.com/user-attachments/assets/c37d9bee-171d-43c2-ac36-00ef2a3b8fe7" width="420"/>
 
 ---
 
