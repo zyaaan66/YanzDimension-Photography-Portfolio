@@ -2,7 +2,7 @@
 
 A single-page, dependency-free photography portfolio built with vanilla HTML, CSS and JavaScript. No build step, no framework, no bundler — clone it, open it, deploy it.
 
-**Live Demo:** [https://your-username.github.io/yanzdimension](https://your-username.github.io/yanzdimension) <!-- replace with your GitHub Pages / Netlify / Vercel URL -->
+**Live Demo:** [https://your-username.github.io/yanzdimension](https://zyaaan66.github.io/YanzDimension-Photography-Portfolio/) <!-- replace with your GitHub Pages / Netlify / Vercel URL -->
 
 ---
 
