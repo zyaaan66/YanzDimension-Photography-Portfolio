@@ -1,4 +1,4 @@
-# YanzDimension — Photography Portfolio
+<img width="1892" height="910" alt="image" src="https://github.com/user-attachments/assets/a2409020-52da-4eea-b25d-bc1a06933e3d" /># YanzDimension — Photography Portfolio
 
 A single-page, dependency-free photography portfolio built with vanilla HTML, CSS and JavaScript. No build step, no framework, no bundler — clone it, open it, deploy it.
 
@@ -10,11 +10,15 @@ A single-page, dependency-free photography portfolio built with vanilla HTML, CS
 
 | Home | Gallery |
 |---|---|
-| ![Home preview](./docs/screenshots/home.png) | ![Gallery preview](./docs/screenshots/gallery.png) |
+| ![Home preview](<img width="1892" height="910" alt="image" src="https://github.com/user-attachments/assets/c98d2afe-7774-402f-a3d3-0ebb7f5635bf" />
+ | ![Gallery preview](<img width="1867" height="896" alt="image" src="https://github.com/user-attachments/assets/f9edfa51-7993-4779-9738-46fa69d31ca3" />
+) |
 
 | About | Contact |
 |---|---|
-| ![About preview](./docs/screenshots/about.png) | ![Contact preview](./docs/screenshots/contact.png) |
+| ![About preview](<img width="1880" height="902" alt="image" src="https://github.com/user-attachments/assets/5d7a9741-10a8-46b0-a2be-b6384324de36" />
+) | ![Contact preview](<img width="1817" height="882" alt="image" src="https://github.com/user-attachments/assets/c37d9bee-171d-43c2-ac36-00ef2a3b8fe7" />
+) |
 
 > Screenshots not showing? Add your own images to `docs/screenshots/` using the filenames above (see [Adding Screenshots](#adding-screenshots)).
 
